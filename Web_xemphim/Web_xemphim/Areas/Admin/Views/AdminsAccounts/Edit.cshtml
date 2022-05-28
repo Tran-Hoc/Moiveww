@@ -1,0 +1,130 @@
+﻿@model Web_xemphim.Data.AdminsAccount
+
+@{
+    ViewData["Title"] = "Chỉnh sửa tài khoản";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<h1>Chỉnh sửa</h1>
+@*
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <form asp-action="Edit" class="forms-sample">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="AdminId" />
+
+                <div class="form-group">
+                    <label asp-for="Name" class="col-sm-3 col-form-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="col-sm-3 col-form-label"></label>
+                    <div class="col-sm-9">
+                        <input asp-for="Password" class="form-control" />
+                    </div>
+
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Checked" class="col-sm-3 col-form-label"></label>
+
+                    <input asp-for="Checked" class="form-control" id="tesst"  />
+
+                    <label class="switch form-control">
+                        @if (Model.Checked == true)
+                        {
+                            <input type="checkbox" id="ckbox" checked>
+                        }
+                        else
+                        {
+                            <input type="checkbox" id="ckbox">
+                        }
+
+                        <span class="slider round"></span>
+
+                    </label>
+
+
+                    <span asp-validation-for="Checked" class="text-danger"></span>
+
+
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-gradient-primary me-2" />
+
+                    <button class="btn btn-light" asp-action="Index">Back to List</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+*@
+
+
+<div class="card-body">
+
+    <form class="forms-sample" asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="AdminId" />
+        <div class="form-group row">
+            <label class="col-sm-3 col-form-label" asp-for="Name">Name</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" placeholder="Username" asp-for="Name">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-3 col-form-label" asp-for="Password">Password</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" placeholder="Password" asp-for="Password">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-3 col-form-label" asp-for="Checked">Status</label>
+            <div class="col-sm-9">
+                <input asp-for="Checked" class="form-control" id="tesst"  hidden/>
+                <label class="switch form-control">
+                    @if (Model.Checked == true)
+                    { <input type="checkbox" id="ckbox" checked> }
+                    else
+                    {<input type="checkbox" id="ckbox">}
+                    <span class="slider round"></span>
+                </label>
+                <span asp-validation-for="Checked" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-gradient-primary me-2" />
+            <button class="btn btn-light" asp-action="Index">Back to List</button>
+        </div>
+    </form>
+</div>
+
+
+
+@section script{
+
+    <script type="text/javascript">
+
+        const alertStatus = (e) => {
+            if ($("#ckbox").is(":checked")) {
+                // alert("Is checked");
+                $("#ckbox").attr("checked", true);
+                $('#tesst').val("True");
+
+            } else {
+                // alert("Is not checked");
+                $("#ckbox").attr("checked", false);
+                $('#tesst').val("false");
+            }
+        };
+
+        // Attaching the click event on the button
+        $(document).on("click", "#ckbox", alertStatus);
+
+    </script>
+
+}

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<input type="checkbox" id="el"></input> Checkbox
+
+<button id="button">Check Status</button>
+
+@section scripts{
+    <script type="text/javascript">
+        const alertStatus = (e) => {
+            if ($("#el").is(":checked")) {
+                alert("Is checked");
+            } else {
+                alert("Is not checked");
+            }
+        };
+
+        // Attaching the click event on the button
+        $(document).on("click", "#button", alertStatus);
+
+    </script>
+}

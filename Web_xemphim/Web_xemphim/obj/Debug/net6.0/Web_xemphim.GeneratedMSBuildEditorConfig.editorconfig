@@ -1,0 +1,272 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web_xemphim
+build_property.RootNamespace = Web_xemphim
+build_property.ProjectDir = D:\IT\Ki 2 nam 3.new\Thuc Tap\Web_xemphim\Web_xemphim\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\IT\Ki 2 nam 3.new\Thuc Tap\Web_xemphim\Web_xemphim
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Actors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Actors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Actors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Actors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Actors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/AdminsAccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5zQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/AdminsAccounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5zQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/AdminsAccounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5zQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/AdminsAccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5zQWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/AdminsAccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5zQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Directors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlyZWN0b3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Directors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlyZWN0b3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Directors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlyZWN0b3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Directors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlyZWN0b3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Directors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGlyZWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Genres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Genres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Genres/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Genres/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Genres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Keywords/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2V5d29yZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Keywords/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2V5d29yZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Keywords/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2V5d29yZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Keywords/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2V5d29yZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Keywords/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2V5d29yZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Nationals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmF0aW9uYWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Nationals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmF0aW9uYWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Nationals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmF0aW9uYWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Nationals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmF0aW9uYWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Nationals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmF0aW9uYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/ReleaseYears/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVsZWFzZVllYXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/ReleaseYears/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVsZWFzZVllYXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/ReleaseYears/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVsZWFzZVllYXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/ReleaseYears/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVsZWFzZVllYXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/ReleaseYears/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVsZWFzZVllYXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Shared/_SlidenavPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TbGlkZW5hdlBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/UsersMovies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNb3ZpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/UsersMovies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNb3ZpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/UsersMovies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNb3ZpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/UsersMovies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNb3ZpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/UsersMovies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNNb3ZpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-12r0ey615g
+
+[D:/IT/Ki 2 nam 3.new/Thuc Tap/Web_xemphim/Web_xemphim/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e8tprpjfiz

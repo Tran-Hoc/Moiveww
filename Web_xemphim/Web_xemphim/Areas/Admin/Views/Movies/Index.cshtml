@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Web_xemphim.Data.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Detail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieLength)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoviePath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Checked)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgPath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KeywordId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Languages)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Views)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrailerPath)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Typemovie)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Director)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseYear)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Detail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieLength)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoviePath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Checked)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ImgPath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KeywordId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Languages)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Views)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrailerPath)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Typemovie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director.DirectorId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseYear.ReleaseYearId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MovieId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MovieId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MovieId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

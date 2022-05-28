@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Web_xemphim.Data.AdminsAccount>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="col-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Tài khoản Admin</h4>
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Tên tài khoản</th>
+                        <th>Trạng thái</th>
+                
+                        <th><a asp-action="Create" type="button" class="btn btn-gradient-success btn-md">Thêm mới</a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null)
+                    {
+                        @foreach (var item in Model)
+                        {
+
+                            <tr>
+                                <td>@item.AdminId</td>
+                                <td>@item.Name</td>
+                                <td>
+                                    @if (@item.Checked == true)
+                                    {
+                                        <i class="mdi mdi-wifi" style="color:forestgreen"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="mdi mdi-wifi-off" style="color:red"></i>
+                                    }
+                                </td>
+                                <td class="btn-group" role="group" aria-label="Basic outlined example">
+                                    <a type="button" class="btn btn-gradient-info btn-md" asp-area="Admin" asp-controller="AdminsAccounts" asp-action="Details" asp-route-id="@item.AdminId"><i class="mdi mdi-opera"></i></a>
+                                    <a type="button" class="btn btn-gradient-primary btn-md" asp-area="Admin" asp-controller="AdminsAccounts" asp-action="Edit" asp-route-id="@item.AdminId"><i class="mdi mdi-box-cutter"></i></a>
+                                    <a type="button" class="btn btn-gradient-danger btn-md" asp-area="Admin" asp-controller="AdminsAccounts" asp-action="Delete" asp-route-id="@item.AdminId"><i class="mdi mdi-close-octagon-outline"></i></a>
+                                </td>
+                            </tr>
+
+                        }
+                    }
+                </tbody>
+
+
+            </table>
+        </div>
+    </div>
+</div>

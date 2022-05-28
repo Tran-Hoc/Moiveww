@@ -1,0 +1,43 @@
+﻿@model Web_xemphim.Data.AdminsAccount
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<p>Bạn có chắc muốn xoá?</p>
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Xoá</h4>
+            <form class="forms-sample">
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Tên</label>
+                    <div class="col-sm-9">
+                        <label class="col-sm-3 col-form-label">@Model.Name</label>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Mật khẩu</label>
+                    <div class="col-sm-9">
+                        <label class="col-sm-3 col-form-label">@Model.Password</label>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label class="col-sm-3 col-form-label">Trạng thái</label>
+                    <div class="col-sm-9">
+                        <label class="col-sm-3 col-form-label">@Model.Checked</label>
+                    </div>
+                </div>
+
+
+            </form>
+            <form asp-action="Delete">
+
+                <input type="hidden" asp-for="AdminId" />
+                <button type="submit" class="btn btn-danger">Xoá</button>
+                <button class="btn btn-light" asp-action="Index">Huỷ</button>
+
+            </form>
+        </div>
+    </div>
+</div>

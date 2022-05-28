@@ -1,0 +1,52 @@
+﻿<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        
+        <li class="nav-item">
+            <a class="nav-link" href="index.html">
+                <span class="menu-title">Trang chủ</span>
+                <i class="mdi mdi-home menu-icon"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="collapse" href="#ui-basic" aria-expanded="false" aria-controls="ui-basic">
+                <span class="menu-title">Quản lý phim</span>
+                <i class="menu-arrow"></i>
+                <i class="mdi mdi-crosshairs-gps menu-icon"></i>
+            </a>
+            <div class="collapse" id="ui-basic">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Movies" asp-action="Index"> Phim</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Keyword" asp-action="Index"> Từ khoá</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Genres" asp-action="Index"> Thể loại</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Nationals" asp-action="Index"> Quốc gia</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Directors" asp-action="Index"> Đạo diễn</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Actors" asp-action="Index"> Diễn viên</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="ReleaseYears" asp-action="Index"> Năm phát hành</a></li>
+
+                </ul>
+            </div>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="collapse" href="#general-pages" aria-expanded="false" aria-controls="general-pages">
+                <span class="menu-title">Quản lý người dùng</span>
+                <i class="menu-arrow"></i>
+                <i class="mdi mdi-medical-bag menu-icon"></i>
+            </a>
+            <div class="collapse" id="general-pages">
+                <ul class="nav flex-column sub-menu">
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Users" asp-action="Index"> Danh sách người dùng</a></li>
+                    <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="UsersMovies" asp-action="Index"> Lịch sử tương tác </a></li>
+
+                </ul>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-area="Admin" asp-controller="AdminsAccounts" asp-action="Index">
+                <span class="menu-title">Tài khoản</span>
+                <i class="mdi mdi-contacts menu-icon"></i>
+            </a>
+        </li>
+       
+    </ul>
+</nav>
